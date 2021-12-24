@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-<!--
-**Dixith1/Dixith1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Senior Adjustment Associate in UHG
 - 🌱 I’m currently learning Data Science and AI
