@@ -1,13 +1,37 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://discord.gg/XTW52Kt">
+<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
 
+<h2> Hey there! I'm Dixith.</h2>
 
-- 🔭 I’m currently working on Senior Adjustment Associate in UHG
+</a>
+
+![](https://visitor-badge.glitch.me/badge?page_id=Dixith1.Dixith1)
+
+<br />
+<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+
+- 💼 Working as a Senior Adjustment Associate at United Health Group.
 - 🌱 I’m currently learning Data Science and AI
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: dixith.akula@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about...
+
+<h3> 🛠 &nbsp;Tech Stack</h3>
+
+- 💻 &nbsp;
+- Learning
+
+
+
+📈 my github stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Dixith1&show_icons=true&theme=gotham" alt="Dixith1" />
+  
+<br/>
+
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/dixith-kumar-akula-817b17171/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Dixith%20Kumar%20Akula-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/dixithk/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-dixithk/-blue?style=flat-square&logo=instagram"></a>
+<a href="mailto:dixith.akula@gmail.co "><img alt="Email" src="https://img.shields.io/badge/Email-dixith.akula@gmail.com-blue?style=flat-square&logo=gmail"></a>
+</p>
