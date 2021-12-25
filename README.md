@@ -1,6 +1,6 @@
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
+<h2> Hey there! I'm Dixith Kumar Akula.<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<a href="https://discord.gg/XTW52Kt"></h2>
 
-<h2> Hey there! I'm Dixith.</h2>
 
 </a>
 
@@ -14,6 +14,7 @@
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about...
+- 😄 Pronouns: He/His/Him
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
