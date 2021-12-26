@@ -33,5 +33,5 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/dixith-kumar-akula-817b17171/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Dixith%20Kumar%20Akula-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/dixithk/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-dixithk/-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:dixith.akula@gmail.co "><img alt="Email" src="https://img.shields.io/badge/Email-dixith.akula@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:dixith.akula@gmail.com "><img alt="Email" src="https://img.shields.io/badge/Email-dixith.akula@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
