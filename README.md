@@ -1,12 +1,9 @@
+
 <h2> Hey there! I'm Dixith Kumar Akula.<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://discord.gg/XTW52Kt"></h2>
-
+<a href="https://github.com/Dixith1">
+<img src="https://komarev.com/ghpvc/?username=Dixith1&style=flat-square" />
 </a>
-
-![](https://visitor-badge.glitch.me/badge?page_id=Dixith1.Dixith1)
-
-<br />
-
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
@@ -23,8 +20,7 @@
 - Learning
 
 
-
-📈 my github stats
+#### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> How about some stats ?
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Dixith1&show_icons=true&theme=gotham" alt="Dixith1" />
   
