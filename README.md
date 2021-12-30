@@ -9,11 +9,11 @@
 
 - 💼 Working as a Senior Adjustment Associate at United Health Group.
 - 🌱 I’m currently learning Data Science and AI
-- 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate on Data science
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about...
-- 😄 Pronouns: He/His
-
+- 💬 Ask me about Anything
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact I am half finish
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
