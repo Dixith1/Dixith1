@@ -1,4 +1,4 @@
-<p align="center"><img width=30% src="https://user-images.githubusercontent.com/93037047/147631084-81495d46-cfa7-4f4e-9b9d-e22095282611.jpg"></p>
+<p align="center"><img width=250% src= "https://user-images.githubusercontent.com/93037047/147870156-3f489b12-a49f-49ca-a9aa-122a54168e14.png"></p>
 <h2 align="center"> Hey there<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px"> ! I'm Dixith Kumar Akula.<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://discord.gg/XTW52Kt"></h2>
 <a href="https://github.com/Dixith1">
