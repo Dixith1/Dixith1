@@ -9,11 +9,11 @@
 
 - 💼 Working as a Senior Adjustment Associate at United Health Group.
 - 🌱 I’m currently learning Data Science and AI
-- 👯 I’m looking to collaborate on Data science
+- 👯 I’m looking to collaborate with any **Open - Source data science projects**<br>
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about Anything
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact I am half finish
+- 💬 Ask me about anything you want, If I am alive I will answer within seconds 😉<br>
+- 😄 Pronouns: ***He/His*** or ***TeamWorker*** 😊 <br>
+- ⚡ Fun fact: *I Always try to learn something new and then sleep till it store in the brain* 😎<br><br><br><br>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -32,7 +32,7 @@
   
 <br/>
   
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+<h3>🤝🏻 &nbsp;Connect with Me</h3><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/dixith-kumar-akula-817b17171/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Dixith%20Kumar%20Akula-blue?style=flat-square&logo=linkedin"></a>
