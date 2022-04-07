@@ -4,7 +4,7 @@
 <a href="https://github.com/Dixith1">
 <img src="https://komarev.com/ghpvc/?username=Dixith1&style=flat-square" />
 </a>
-
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif">
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 💼 Working as a Senior Adjustment Associate at United Health Group.
@@ -14,7 +14,6 @@
 - 💬 Ask me about anything you want, If I am alive I will answer within seconds 😉<br>
 - 😄 Pronouns: ***He/His*** or ***TeamWorker*** 😊 <br>
 - ⚡ Fun fact: *I Always try to learn something new and then sleep till it store in the brain* 😎<br><br><br><br>
-
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
