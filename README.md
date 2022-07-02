@@ -7,8 +7,8 @@
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif">
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 💼 Working as a Senior Adjustment Associate at United Health Group.
-- 🌱 I’m currently learning Data Science and AI
+- 💼 Working as a Senior Claims Adjustment Analyst at Optum Global Solutions.
+- 🌱 I’m currently learning Data Science and ML
 - 👯 I’m looking to collaborate with any **Open - Source data science projects**<br>
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about anything you want, If I am alive I will answer within seconds 😉<br>
