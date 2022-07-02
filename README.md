@@ -1,5 +1,5 @@
 <p align="center"><img width=250% src= "https://user-images.githubusercontent.com/93037047/161910903-a0301b60-cc20-40e6-9f38-bff9405336e8.png"></p>
-<h2 align="center"> Hey there<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px"> ! I'm Dixith Kumar Akula.<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<h2 align="center"> Hey there ! I'm Dixith Kumar Akula.
 <a href="https://discord.gg/XTW52Kt"></h2>
 <a href="https://github.com/Dixith1">
 <img src="https://komarev.com/ghpvc/?username=Dixith1&style=flat-square" />
