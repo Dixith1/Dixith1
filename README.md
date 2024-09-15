@@ -20,7 +20,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp;
-
+![MYSQL](https://img.shields.io/badge/-MYSQL-05122A?style=flat&logo=rstudio)&nbsp;
 
 
 
